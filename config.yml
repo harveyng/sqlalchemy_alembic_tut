@@ -1,0 +1,1 @@
+sqlalchemy_url: postgresql://harvey:karaemon@localhost/harvey
